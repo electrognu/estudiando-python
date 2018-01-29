@@ -69,5 +69,5 @@ def Amplificador():
        print("La ganancia del amplificador es", ganancia)
        figura_de_ruido = int(input("Introduce la figura de ruido del amplificador"))
        print("La figura de ruido del amplificador es", figura_de_ruido)
-
+   return (ganancia, figura_de_ruido)
 
