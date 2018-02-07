@@ -45,7 +45,7 @@ def handle(msg):
 ###############################################
 ##    EMPIEZA AQUÍ EL PROGRAMA PRINCIPAL     ##
 ###############################################
-token_gabriel_bot = '368802964:AAFQzUTOsY3NSpw_2YVTBDXeWnAK7R-RGbw'
+token_gabriel_bot = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 bot = telepot.Bot(token_gabriel_bot)
 conectados = []
 
