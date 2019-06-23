@@ -3,9 +3,6 @@ Mis recursos para aprender python desde cero y otras cosas.
 Gracias a todos los que han compartido su conocimiento al que he podido acceder libremente, los admiro por ello.
 Y dejo aquí mis recursos y apuntes.
 
-## No solo python
-También estoy aprendiendo FreeCAD, OpenSCAD, manejo de impresoras 3D proximamente, y como veis empiezo a usar git con github y el editor Atom que me facilita la vida de escribir codigo.
-
 ## Enlaces de donde bebo el conocimiento.
 Me apoyo en multiples contenidos de internet de los cuales aquí dejo los enlaces con una pequeña explicación.
 * [Tutorial Python y Django](http://docs.python.org.ar/tutorial/)
